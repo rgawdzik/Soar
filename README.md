@@ -48,3 +48,6 @@ Here are some great books:
 ###End Notes###
 Thank you for all the support I recieved over the summer developing this awesome project. I couldn't of done
 it without the help of my collegues.
+
+###Code Metrics###
+![](http://i.imgur.com/oEDqT0y.png)
