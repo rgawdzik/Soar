@@ -42,7 +42,7 @@ Here are some great books:
 
  - [XNA Game Studio 4.0 Programming](http://www.amazon.ca/books/dp/0672333457)
  - [3D Math Primer for Graphics and Game Development](http://www.amazon.com/Primer-Graphics-Development-Wordware-Library/dp/1556229119)
-
+ - [Game Physics](http://www.amazon.com/Game-Physics-David-H-Eberly/dp/0123749034/ref=sr_1_1?s=books&ie=UTF8&qid=1374205664&sr=1-1&keywords=3d+game+physics)
 
 
 ###End Notes###
