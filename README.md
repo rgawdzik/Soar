@@ -19,7 +19,7 @@ I love open-source projects, and I really didn't appreciate them until 2013.
 
 This is technically under the Apache v2 license, and you can read more about it here:
 
-[Apache v2 License Overview](http://www.tldrlegal.com/license/apache-license-2.0-(apache-2.0))
+[Apache v2 License Overview](http://www.tldrlegal.com/license/apache-license-2.0-(apache-2.0)
 
 ####What does it look like?####
 
